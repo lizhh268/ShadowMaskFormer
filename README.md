@@ -1,7 +1,8 @@
 # ShadowMaskFormer
 A transformer-based approach for image shadow removal.
 
-# We test the code on PyTorch 1.10.2 + CUDA 11.3 + cuDNN 8.2.0.
+# Training Environment
+We test the code on PyTorch 1.10.2 + CUDA 11.3 + cuDNN 8.2.0.
 
 1. Create a new conda environment
 ```
@@ -15,7 +16,8 @@ conda install pytorch=1.10.2 torchvision torchaudio cudatoolkit=11.3 -c pytorch
 pip install -r requirements.txt
 ```
 
-# Please execute the following instructions to configure the parameters for running the program:
+# Insturcions
+Please execute the following instructions to configure the parameters for running the program:
 
 1. Model Training
 python train.py --model (model name) --dataset (dataset name) --exp (exp name)
