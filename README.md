@@ -19,7 +19,7 @@ conda install pytorch=1.10.2 torchvision torchaudio cudatoolkit=11.3 -c pytorch
 pip install -r requirements.txt
 ```
 
-# Instrucions
+# Instructions
 Please execute the following instructions to configure the parameters for running the program:
 
 1. Model Training
