@@ -29,16 +29,3 @@ e.g.: python train.py --model shadowmaskformer-b --dataset ISTD --exp istd
 2. Model Testing
 python test.py --model (model name) --dataset (dataset name) --exp (exp name)
 e.g.: python test.py --model shadowmaskformer-b --dataset ISTD --exp istd
-
-# Citation
-```
-@misc{li2024shadowmaskformermaskaugmentedpatch,
-      title={ShadowMaskFormer: Mask Augmented Patch Embeddings for Shadow Removal}, 
-      author={Zhuohao Li and Guoyang Xie and Guannan Jiang and Zhichao Lu},
-      year={2024},
-      eprint={2404.18433},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2404.18433}, 
-}
-```
