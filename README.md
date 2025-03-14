@@ -3,6 +3,7 @@ A transformer-based approach for image shadow removal.
 This repository includes code for the following paper:
 
 ShadowMaskFormer: Mask Augmented Patch Embedding for Shadow Removal
+Accepted for publication in IEEE Transactions on Artificial Intelligence (TAI).
 
 # Training Environment
 We test the code on PyTorch 1.10.2 + CUDA 11.3 + cuDNN 8.2.0.
