@@ -3,6 +3,7 @@ A transformer-based approach for image shadow removal.
 This repository includes code for the following paper:
 
 ShadowMaskFormer: Mask Augmented Patch Embedding for Shadow Removal
+
 Accepted for publication in IEEE Transactions on Artificial Intelligence (TAI).
 
 # Training Environment
