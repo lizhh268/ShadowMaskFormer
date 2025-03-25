@@ -43,13 +43,14 @@ e.g.: python test.py --model shadowmaskformer-b --dataset ISTD --exp istd
 
 # Citation
 ```
-@misc{li2024shadowmaskformermaskaugmentedpatch,
-      title={ShadowMaskFormer: Mask Augmented Patch Embeddings for Shadow Removal}, 
-      author={Zhuohao Li and Guoyang Xie and Guannan Jiang and Zhichao Lu},
-      year={2024},
-      eprint={2404.18433},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2404.18433}, 
-}
+@ARTICLE{10938393,
+  author={Li, Zhuohao and Xie, Guoyang and Jiang, Guannan and Lu, Zhichao},
+  journal={IEEE Transactions on Artificial Intelligence}, 
+  title={ShadowMaskFormer: Mask Augmented Patch Embedding for Shadow Removal}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Patch Embedding;Shadow Mask;Shadow Removal;Vision Transformer;Deep Learning},
+  doi={10.1109/TAI.2025.3554605}}
 ```
