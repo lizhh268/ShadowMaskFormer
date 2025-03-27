@@ -12,10 +12,10 @@ This repository includes code for the following paper:
   <img src="./ShadowMaskFormer.png">
 </p>
 <p align="middle">
-  <img src="./results.png">
+  <img src="./results2.png">
 </p>
 <p align="middle">
-  <img src="./results2.png">
+  <img src="./results.png">
 </p>
 
 # Training Environment
