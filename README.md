@@ -14,6 +14,9 @@ This repository includes code for the following paper:
 <p align="middle">
   <img src="./results.png">
 </p>
+<p align="middle">
+  <img src="./results2.png">
+</p>
 
 # Training Environment
 We test the code on PyTorch 1.10.2 + CUDA 11.3 + cuDNN 8.2.0.
