@@ -46,6 +46,7 @@ e.g.: python test.py --model shadowmaskformer-b --dataset ISTD --exp istd
 
 
 # Citation
+If our work is helpful for your research, please consider citing:
 ```
 @ARTICLE{10938393,
   author={Li, Zhuohao and Xie, Guoyang and Jiang, Guannan and Lu, Zhichao},
