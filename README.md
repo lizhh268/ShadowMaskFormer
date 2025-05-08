@@ -44,9 +44,13 @@ e.g.: python train.py --model shadowmaskformer-b --dataset ISTD --exp istd
 python test.py --model (model name) --dataset (dataset name) --exp (exp name)
 e.g.: python test.py --model shadowmaskformer-b --dataset ISTD --exp istd
 
+# Dataset Evaluation Results 
+We provide evaluation results on benchmark datasets: 
+
+👉 **[Click here to access the results (Google Drive)](https://drive.google.com/drive/folders/1-pHEIXVp9b9rpMZimHt4ZgG2urdaGWmO?usp=sharing)**
 
 # Citation
-If our work is helpful for your research, please consider citing:
+👉 If our work is helpful for your research, please consider citing:
 ```
 @ARTICLE{10938393,
   author={Li, Zhuohao and Xie, Guoyang and Jiang, Guannan and Lu, Zhichao},
